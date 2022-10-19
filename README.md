@@ -5,4 +5,4 @@ This is a WIP.
 Ths makes the colors more matching to Departmental Comm Specs.
 
 # Installation:
-The plop it in, overwriting current compiled CSS. 
+Just plop it in, overwriting current compiled CSS. 
