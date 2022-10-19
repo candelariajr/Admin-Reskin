@@ -1052,11 +1052,11 @@ header {
   position: fixed;
   padding: 8px 1em;
   z-index: 9999;
-  background-color: #333333;
+  background-color: black;
   color: #FFFFFF; }
   header a:link,
   header a:visited {
-    color: #CCCCCC;
+    color: #ffc900;
     padding-bottom: 11px;
     border-bottom: 2px solid transparent;
     transition: 0.5s all;
@@ -1072,7 +1072,7 @@ header {
   header li {
     float: left;
     margin-right: 0.875em;
-    color: white; }
+    color: #ffc900; }
     header li:last-child {
       margin-right: 0; }
   header nav {
@@ -1086,7 +1086,7 @@ header {
         height: 0px;
         left: 0;
         overflow: auto;
-        background: #333333;
+        background: black;
         transition: 0.5s all; }
         header nav.in {
           height: 260px;
@@ -1367,7 +1367,7 @@ header {
   transition: 0.5s all;
   margin: 0;
   color: #fff;
-  background: #82423B;
+  background: black;
   border-radius: 0;
   border: none;
   text-shadow: none;
