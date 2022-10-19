@@ -31,13 +31,15 @@
   -webkit-animation-delay: 1s;
   animation-delay: 1s; }
 
+/* No Fade-Ins longer than 1s! */
 .fade-delay-15 {
-  -webkit-animation-delay: 1.5s;
-  animation-delay: 1.5s; }
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s; }
 
-.fade-delay-2 {
-  -webkit-animation-delay: 2s;
-  animation-delay: 2s; }
+.fade-delay-2 { 
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s; }
+/* No Fade-Ins longer than 1s! */
 
 .in {
   -webkit-animation-name: fadeIn;
@@ -2935,5 +2937,3 @@ form.form-inline.editableform {
 
 #search-users button {
   margin: 0; }
-
-/*# sourceMappingURL=style.css.map */
